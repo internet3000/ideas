@@ -2,6 +2,8 @@
 
 Welcome to **INTERNET 3000**.
 
+![internet3000.gif](internet3000.gif)
+
 ## What
 
 A discussion repo for individuals wanting to promote one of more of the following evolutionary Internet ideas:
