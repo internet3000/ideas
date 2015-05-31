@@ -13,6 +13,7 @@ A discussion repo for individuals wanting to promote one of more of the followin
 - user friendly operating systems
 - approachable distributed systems
 - legit peer-to-peer data sharing (archiving, science, government)
+- civic, private, nonprofit, academic sector collaboration
 - funding models for open innovation
 - [OPEN open source](http://openopensource.org/)
 - open source education (art and technology, mentorship)
