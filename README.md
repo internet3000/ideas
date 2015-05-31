@@ -14,7 +14,12 @@ A discussion repo for individuals wanting to promote one of more of the followin
 - funding models for open innovation
 - [OPEN open source](http://openopensource.org/)
 - open source education (art and technology, mentorship)
+- empowerment through communication technology
 
 ## How
 
 Use the [discussion board](https://github.com/internet3000/ideas/issues) of this repo to discuss
+
+## Why
+
+Too many brilliant people communicate in silos (private repos, slack channels, email, other company backchannels). Factor out the stuff important for public debate and discuss it here
